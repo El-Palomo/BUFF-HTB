@@ -29,4 +29,4 @@ Read data files from: /usr/bin/../share/nmap
 # Nmap done at Tue Apr 19 19:07:21 2022 -- 1 IP address (1 host up) scanned in 106.96 seconds
 ```
 
-<img src="https://github.com/El-Palomo/Resolute-HTB/blob/main/Resolute1.jpg" width=80% />
+<img src="https://github.com/El-Palomo/BUFF-HTB/blob/main/Buff1.jpg" width=80% />
